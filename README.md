@@ -6,4 +6,5 @@ A set of utility functions and functions under recent development that do not fi
 ```r
 install.packages("devtools")
 devtools::install_github("gregorgorjanc/ggrfuncs")
+library(ggrfuncs)
 ```
