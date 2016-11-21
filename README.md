@@ -3,6 +3,8 @@ Gregor Gorjanc's R functions
 
 A set of utility functions and functions under recent development that do not fit into its own package.
 
+## Install
+
 ```r
 install.packages("devtools")
 devtools::install_github("gregorgorjanc/ggrfuncs")
