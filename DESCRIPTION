@@ -8,3 +8,4 @@ Description: A set of utility functions and functions under recent development t
 License: MIT
 LazyData: TRUE
 RoxygenNote: 5.0.1
+Suggests: testthat
