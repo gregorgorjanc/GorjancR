@@ -1,0 +1,10 @@
+Package: ggrfuncs
+Type: Package
+Title: Gregor Gorjanc's R functions
+Version: 0.1
+Date: 2016-11-19
+Authors@R: person("Gregor", "Gorjanc", email = "gregor.gorjanc@gmail.com", role = c("aut", "cre"))
+Description: A set of utility functions and functions under recent development that do not fit into its own package.
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
