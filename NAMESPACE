@@ -2,3 +2,4 @@
 
 export(FindNe)
 export(Ne)
+export(SelInt)
