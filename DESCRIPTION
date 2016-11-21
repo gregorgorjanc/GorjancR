@@ -3,9 +3,10 @@ Type: Package
 Title: Gregor Gorjanc's R functions
 Version: 0.1
 Date: 2016-11-19
-Authors@R: person("Gregor", "Gorjanc", email = "gregor.gorjanc@gmail.com", role = c("aut", "cre"))
+Author: Gregor Gorjanc <gregor.gorjanc@gmail.com>
+Maintainer: Gregor Gorjanc <gregor.gorjanc@gmail.com>
 Description: A set of utility functions and functions under recent development that do not fit into its own package.
-License: MIT
+License: MIT + file LICENSE
 LazyData: TRUE
 RoxygenNote: 5.0.1
 Suggests: testthat

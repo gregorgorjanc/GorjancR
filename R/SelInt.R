@@ -14,6 +14,7 @@
 #' SelInt(x=0.05)
 #' SelInt(x=0.01)
 #' @export
+#' @importFrom stats qnorm dnorm
 SelInt <- function(x) {
   if(any(x < 0) | any(x > 1)) stop("'x' must be in range [0, 1]")
   dnorm(qnorm(x, lower.tail=FALSE)) / x
