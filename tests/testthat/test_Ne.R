@@ -1,4 +1,4 @@
-library(ggrfuncs)
+library(GorjancR)
 
 context("Effective population size")
 

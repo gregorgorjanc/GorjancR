@@ -1,4 +1,4 @@
 library(testthat)
-library(ggrfuncs)
+library(GorjancR)
 
-test_check("ggrfuncs")
+test_check("GorjancR")
