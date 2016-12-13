@@ -1,5 +1,5 @@
 
-#' Evaluate effective population size (Ne).
+#' Evaluate effective population size (Ne)
 #'
 #' \code{Ne} evaluates effective population size given some demographic parameters.
 #'

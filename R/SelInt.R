@@ -1,5 +1,5 @@
 
-#' Selection intensity.
+#' Selection intensity
 #'
 #' \code{SelInt} evaluates selection intensity given proportion of selected individuals.
 #'

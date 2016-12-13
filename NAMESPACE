@@ -3,5 +3,6 @@
 export(FindNe)
 export(Ne)
 export(SelInt)
+export(System)
 importFrom(stats,dnorm)
 importFrom(stats,qnorm)

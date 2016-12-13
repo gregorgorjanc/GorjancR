@@ -2,7 +2,7 @@
 % Please edit documentation in R/Ne.R
 \name{Ne}
 \alias{Ne}
-\title{Evaluate effective population size (Ne).}
+\title{Evaluate effective population size (Ne)}
 \usage{
 Ne(nM, nF, AvgProgM = (nM + nF)/nM, AvgProgF = (nM + nF)/nF,
   VarProgM = AvgProgM, VarProgF = AvgProgF, c = nM/(nM + nF), Fis = 0)
