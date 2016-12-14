@@ -28,7 +28,7 @@ System <- function(Command, Wait=TRUE, CheckValue=0, NoteStart=NULL, NoteEnd=NUL
   Check <- system(command=Command, wait=Wait, ...)
   if (Check > CheckValue) {
     stop(paste0("ERROR: ", Command,
-                paste0(" return value:", CheckValue),
+                paste0(" return value: ", CheckValue),
                 ifelse(!is.null(NoteDetail), paste0(" ", NoteDetail), ""),
                 ifelse(!is.null(NoteError),  paste0(" ", NoteError), ""), "\n"))
   }
